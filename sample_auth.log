@@ -1,0 +1,7 @@
+Oct 24 12:01:02 server sshd[1234]: Failed password for root from 192.168.1.50 port 44322 ssh2
+Oct 24 12:01:05 server sshd[1235]: Failed password for root from 192.168.1.50 port 44324 ssh2
+Oct 24 12:01:08 server sshd[1236]: Failed password for admin from 192.168.1.50 port 44326 ssh2
+Oct 24 12:01:10 server sshd[1237]: Failed password for invalid user guest from 192.168.1.50 port 44328 ssh2
+Oct 24 12:01:12 server sshd[1238]: Failed password for root from 192.168.1.50 port 44330 ssh2
+Oct 24 12:05:00 server sshd[1240]: Accepted password for ubuntu from 10.0.0.15 port 51200 ssh2
+Oct 24 12:06:12 server sshd[1245]: Failed password for user1 from 172.16.0.4 port 33100 ssh2
