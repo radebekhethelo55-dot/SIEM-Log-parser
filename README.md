@@ -16,3 +16,5 @@ siem-log-parser/
 ├── sample_auth.log     # Sample SSH authentication log file
 ├── report.csv          # Exported CSV report
 └── README.md           # Documentation
+## Sample Output
+![Terminal Output](siem%20as.png)
