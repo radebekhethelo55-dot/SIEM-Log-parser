@@ -18,4 +18,4 @@ siem-log-parser/
 └── README.md           # Documentation
 ```
 ## Sample Output
-![Terminal Output](siem%20as.png)
+![Terminal Output](siem ss%20as.png)
